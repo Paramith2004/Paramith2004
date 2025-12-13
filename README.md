@@ -1,81 +1,99 @@
-# 👋 Hi, I'm Paramith Kavisha  
-
-🎓 **Software Engineering Undergraduate** | 💻 Aspiring Software Developer  
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<h1 align="center">Hi 👋, I'm Paramith Kavisha</h1>
+<h3 align="center">🎓 Software Engineering Undergraduate | 💻 Aspiring Software Developer <br> 
 🌱 Learning • Building • Improving  
+</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Paramith2004&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p> 
+ 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## 🚀 About Me
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🚀 About Me</h2></summary>
+  </ul>
+</div>
 
-- 🎓 Undergraduate in **Software Engineering**
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+- 🎓 Undergraduate in **University of Westminster**
 - 💡 Interested in **Web Development, Java Applications & UI Design**
 - 🧑‍🤝‍🧑 Experienced in **team-based university projects**
 - 🛠️ Strong foundation in **OOP, Java GUI, and Web Technologies**
 - 🌍 Based in **Sri Lanka**
+  
+</td>
 
----
+<td width="50%" align="center">
 
-## 🧠 Technical Skills
+  <img align="center" alt="Coding" width="400" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+  </td>
+</tr>
+</table>
 
-### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-## 📂 Projects & Experience
-
-🔹 **University Coursework Projects**
-- Web Design & Development (HTML, CSS, accessibility-focused sites)
-- Java Console & GUI Applications
-- Software Engineering documentation & case studies
-- SDGP – Software Development Group Project
-
-🔹 **Concepts Practiced**
-- Object-Oriented Programming (OOP)
-- Java Swing Event Handling
-- File Handling & Data Storage
-- Responsive Web Design
-- UI/UX Design using Figma
-
----
-
-## 📊 GitHub Statistics
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></h2></summary>
+  </ul>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark" height="165"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,prisma,pug,express,figma,firebase,redis,github,html,java,js,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react" />
+  </a>
 </p>
 
----
 
-## 🎯 Goals
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-- 🚀 Secure an **internship / industry placement**
-- 📈 Improve problem-solving & clean coding skills
-- 📚 Build real-world inspired applications
-- 🤝 Collaborate and learn from others
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</h2></summary>
+  </ul>
+</div>
 
----
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 
-## 🤝 Connect With Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paramith2004&show_icons=true&theme=github_dark" height="165"/><br>
 
-- 📧 Email: *(add your email here)*  
-- 💼 LinkedIn: *(add LinkedIn profile when ready)*  
+</td>
+<td width="50%" align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramith2004&layout=compact&theme=github_dark" height="165"/>
+</p>
+    </td>
+</tr>
+</table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-⭐ **Thanks for visiting my GitHub profile!**  
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://https://www.linkedin.com/in/paramith-kavisha-32681b352/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="mailto:paramithkavisha@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" height="65" width="65" /></a> 
+<a href="https://https://www.instagram.com/_paramith_k._/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://https://discord.com/channels/@me" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+ <ul align="center">
+⭐ Thanks for visiting my GitHub profile!  
 Feel free to explore my repositories and share feedback 😊
+ </ul>
