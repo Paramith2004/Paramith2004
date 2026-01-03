@@ -51,30 +51,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</h2></summary>
-  </ul>
-</div>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paramith2004&show_icons=true&theme=github_dark" height="165"/><br>
-
-</td>
-<td width="50%" align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramith2004&layout=compact&theme=github_dark" height="165"/>
-</p>
-    </td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
+ 
 
 <div id="user-content-toc">
   <ul align="center">
