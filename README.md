@@ -3,7 +3,12 @@
 <h3 align="center">🎓 Software Engineering Undergraduate | 💻 Aspiring Software Developer <br> 
 🌱 Learning • Building • Improving  
 </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Paramith2004&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Paramith2004&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center">
+  <a href="https://Paramith2004.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-00d4ff?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
